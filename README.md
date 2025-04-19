@@ -1,5 +1,13 @@
 # Exploratory Data Analysis (EDA) 
- 
+This project includes comprehensive Exploratory Data Analysis (EDA) conducted using Gemini (Google’s AI tool) within Google Colab to efficiently analyze and visualize the dataset.
+🔍 Key Highlights:
+Leveraged Gemini in Google Colab to generate automated insights, visualizations, and statistical summaries.
+Explored data distributions, correlations, missing values, and outliers.
+Helped in identifying significant features and patterns for further modeling or decision-making.
+🚀 Deployment
+All EDA notebooks and generated outputs are available in this GitHub repository.
+💡 AI-assisted EDA helped streamline the process and provided faster, deeper insights into the dataset.
+Note:The report is also generated with the assistance of AI
 # 1. Introduction
 
 This document details the Exploratory Data Analysis (EDA) conducted on the "mental_health_analysis.csv" dataset. The primary goal of this EDA is to gain a comprehensive understanding of the dataset's structure, characteristics, and relationships between variables, which will inform further analysis and modeling efforts.
